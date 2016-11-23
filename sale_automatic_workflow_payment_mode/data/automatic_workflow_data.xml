@@ -2,7 +2,7 @@
 <!--
     sale_automatic_workflow_payment_mode for Odoo
     Copyright (C) 2016 Sodexis
-    The licence is in the file __openerp__.py
+    The licence is in the file __odoo__.py
 -->
 <odoo>
     <data noupdate="1">

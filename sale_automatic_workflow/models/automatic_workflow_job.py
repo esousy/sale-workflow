@@ -6,8 +6,8 @@
 
 import logging
 from contextlib import contextmanager
-from openerp import models, api
-from openerp.tools.safe_eval import safe_eval
+from odoo import models, api
+from odoo.tools.safe_eval import safe_eval
 
 _logger = logging.getLogger(__name__)
 

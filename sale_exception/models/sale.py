@@ -4,9 +4,9 @@
 
 import time
 
-from openerp import api, models, fields, _
-from openerp.exceptions import UserError, ValidationError
-from openerp.tools.safe_eval import safe_eval
+from odoo import api, models, fields, _
+from odoo.exceptions import UserError, ValidationError
+from odoo.tools.safe_eval import safe_eval
 
 
 class SaleException(models.Model):

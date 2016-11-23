@@ -50,7 +50,7 @@ sequence.  When you confirm a quotation, its orginal number is saved in the
 'origin' field and the sale order gets a new number, retrieving it from
 'sale.order' sequence.
 
-With Openerp Base.
+With Odoo Base.
 
 Sale Quotation 1 Number = SO001
 Sale Quotation 2 Number = SO002
@@ -59,7 +59,7 @@ Sale Quotation 4 Number = SO004
 
 Sale Quotation 2 Confirmed = Number for Sale Order SO004
 
-With Openerp + This Module.
+With Odoo + This Module.
 
 
 Sale Quotation 1 Number = SQ001

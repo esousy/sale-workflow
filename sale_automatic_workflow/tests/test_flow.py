@@ -21,8 +21,8 @@
 
 from datetime import datetime, timedelta
 
-from openerp import fields
-from openerp.tests import common
+from odoo import fields
+from odoo.tests import common
 
 
 class TestAutomaticWorkflow(common.TransactionCase):
